@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumar0356&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumar0356" /> </p>
 
-- 🌱 currently building  CodeCrack and learning DevOps **
+- 🌱 I'm currently building CodeCrack a codeing platefrom and learning DevOps **
 
 - 👨‍💻 All of my projects are available at [https://viewsmyportfolia.netlify.app/](https://viewsmyportfolia.netlify.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@rahulkumar143](https://hashnode.com/@rahulkumar143)
 
-- 💬 Ask me about **react.js,Node.js,express.js,MonogDB,RESTAPI,Socket.io**
+- 💬 Ask me about **react.js,Node.js,express.js,MonogDB,RESTAPI,Socket.io,Dcoker,**
 
 - 📫 How to reach me **rahulkumar9199270356@gmail.com**
 

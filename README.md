@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumar0356&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumar0356" /> </p>
 
-- 🌱 I'm currently building CodeCrack a codeing platefrom and learning DevOps **
+- 🌱 I'm currently building CodeCrack a codeing platefrom and learning DevOps.
 
 - 👨‍💻 All of my projects are available at [https://viewsmyportfolia.netlify.app/](https://viewsmyportfolia.netlify.app/)
 
